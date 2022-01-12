@@ -33,3 +33,7 @@ Esc+Fn=~·
 
 Fn +WASD=方向键
 
+可自定义所有按键
+
+软件可在Releases页面找到
+
