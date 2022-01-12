@@ -35,5 +35,6 @@ Fn +WASD=方向键
 
 可自定义所有按键
 
-软件可在Releases页面找到
+软件可在[Releases](https://github.com/OnionOfficial/MeiyaKeyboard/releases)页面找到
+
 
